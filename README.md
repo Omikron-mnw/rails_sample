@@ -1,7 +1,7 @@
-# 初期制作用
+## 初期制作用
 
-## Ruby on rails 用のDocker image
+### Ruby on rails 用のDocker image
 
-### /app --> 作成のみ
+#### /app --> 作成のみ
 
-### Gemfile --> その都度編集
+#### Gemfile --> その都度編集
