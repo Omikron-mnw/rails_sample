@@ -4,4 +4,6 @@
 
 #### /app --> 作成のみ
 
+#### /Dockerfile
+
 #### Gemfile --> その都度編集
